@@ -15,7 +15,7 @@
 
 Goal: build a **current‑gen, Metro Manila–sourced** desktop for **light 720p gaming** (League of Legends, Portal, Dota Underlords) and general use.  
 Budget target: **₱20,000 ±5%**.  
-Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without a dedicated GPU; leave an easy upgrade path to a future dGPU (e.g., RX 6600).
+Design choice: an **AMD APU** (Ryzen 5 5600GT) to meet the gaming target without a dedicated GPU; leave an easy upgrade path to a future dGPU (e.g., RX 6600).
 
 ---
 
@@ -31,7 +31,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **CPU** | AMD **Ryzen 5 5600GT** (6C/12T, Radeon Vega 7) | Includes Wraith cooler; strong iGPU for 720p/low. |
 | **CPU Cooler** | **Stock Wraith Stealth** | AM4 mounting; adequate at stock. |
 | **Motherboard** | **GIGABYTE A520M‑KV2** (mATX, AM4) | AM4 socket, 1× M.2 NVMe. |
-| **RAM** | **16 GB (2×8) DDR4‑3200 CL16** (TEAMGROUP 16GB VULCAN Z Desktop Memory) | Dual‑channel is critical for iGPU FPS. |
+| **RAM** | **TEAMGROUP 16 GB (2×8) DDR4‑3600 CL16** (TEAMGROUP 16GB VULCAN Z Desktop Memory) | Dual‑channel is critical for iGPU FPS. |
 | **Storage 1 (NVMe)** | **Kingston NV3 500 GB** PCIe NVMe M.2 | Meets rubric “Storage 1 NVMe M.2”. |
 | **Storage 2** | — | Optional (skip to stay under budget). |
 | **Graphics** | **Integrated Radeon** (5600G iGPU) | Satisfies “Integrated or dedicated” requirement. |
