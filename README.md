@@ -98,7 +98,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600GT) to meet the gaming target without
 ---
 
 ## 7) Video Pitch (5–7 minutes)
-
+- https://youtu.be/qP5dc4_ATTU (PITCH LINK)
 - Problem & goal (720p/light gaming under ₱20k)  
 - Part choices + justifications (iGPU focus, dual‑channel RAM, NVMe, Bronze PSU)  
 - Local price proof (open each vendor page)  
