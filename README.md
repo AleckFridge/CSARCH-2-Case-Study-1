@@ -22,7 +22,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600GT) to meet the gaming target without
 ## 2) PCPartPicker Validation
 
 > Use PCPartPicker System Builder with PH region to validate fit, wattage, and required connectors.  
-**PCPartPicker permalink:** _paste your link here_  
+**PCPartPicker permalink:https://pcpartpicker.com/list/xvFdZc** _paste your link here_  
 **Screenshot:** _place in `/pcpp/pcpp_screenshots/`_
 
 ### Parts Summary
