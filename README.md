@@ -28,10 +28,10 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 ### Parts Summary
 | Component | Model | Notes |
 |---|---|---|
-| **CPU** | AMD **Ryzen 5 5600G** (6C/12T, Radeon Vega 7) | Includes Wraith cooler; strong iGPU for 720p/low. |
+| **CPU** | AMD **Ryzen 5 5600GT** (6C/12T, Radeon Vega 7) | Includes Wraith cooler; strong iGPU for 720p/low. |
 | **CPU Cooler** | **Stock Wraith Stealth** | AM4 mounting; adequate at stock. |
-| **Motherboard** | **ASUS PRIME A520M‑K** (mATX, AM4) | AM4 socket, 1× M.2 NVMe. |
-| **RAM** | **16 GB (2×8) DDR4‑3200 CL16** (G.Skill Ripjaws V) | Dual‑channel is critical for iGPU FPS. |
+| **Motherboard** | **GIGABYTE A520M‑KV2** (mATX, AM4) | AM4 socket, 1× M.2 NVMe. |
+| **RAM** | **16 GB (2×8) DDR4‑3200 CL16** (TEAMGROUP 16GB VULCAN Z Desktop Memory) | Dual‑channel is critical for iGPU FPS. |
 | **Storage 1 (NVMe)** | **Kingston NV3 500 GB** PCIe NVMe M.2 | Meets rubric “Storage 1 NVMe M.2”. |
 | **Storage 2** | — | Optional (skip to stay under budget). |
 | **Graphics** | **Integrated Radeon** (5600G iGPU) | Satisfies “Integrated or dedicated” requirement. |
@@ -45,12 +45,14 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 
 > Record **date checked** for each line and keep screenshots in `/pricing/`.
 
+[Link to Spreadsheet](https://docs.google.com/spreadsheets/d/1NElgdf8un2gQuxJTkAW_fvciuKMDOF-cPFAEcsoqLjU/edit?usp=sharing)
+
 | Component | Model | Vendor & Link | Price (Php) | Compatibility Notes |
 |---|---|---|---:|---|
-| **CPU** | AMD Ryzen 5 5600G | PC Express – https://pcx.com.ph/products/amd-ryzen-5-5600g-3-9ghz-processor | 7,550 | AM4; includes stock cooler; iGPU used. |
+| **CPU** | AMD Ryzen 5 5600GT | PC Express – https://pcx.com.ph/collections/processors/products/amd-ryzen-5-5600gt-desktop-processor-3-6-up-to-4-6ghz?_pos=5&_fid=8b5442f3b&_ss=c | 7,500 | AM4; includes stock cooler; iGPU used. |
 | **CPU Cooler** | AMD Wraith Stealth (in‑box) | — | 0 | AM4 mounting; no extra cost. |
-| **Motherboard** | ASUS PRIME A520M‑K (mATX) | PC Express – https://pcx.com.ph/products/asus-prime-a520m-k-micro-atx-motherboard | 3,200 | AM4 socket; NVMe M.2 slot; BIOS supports 5600G. |
-| **RAM** | G.Skill Ripjaws V 16 GB (2×8) DDR4‑3200 CL16 | PC Express – https://pcx.com.ph/products/gskills-16gb-2x-8gb-ddr4-3200mhz-ripjaws-v-f4-3200c16d-16gvkb-desktop-memory | 3,000 | Dual‑channel DDR4; boosts iGPU bandwidth. |
+| **Motherboard** | GIGABYTE A520M‑K V2 (mATX) | PC Express – https://pcx.com.ph/products/gigabyte-a520m-k-v2-micro-atx-motherboard?_pos=2&_sid=d99ec411a&_ss=r | 3,050 | AM4 socket; NVMe M.2 slot; BIOS supports 5600G. |
+| **RAM** | TEAMGROUP 16GB (2x8GB) DDR4 3600MHz VULCAN Z Desktop Memory | PC Express – https://pcx.com.ph/collections/memory-modules/products/teamgroup-16gb-2x8gb-ddr4-3600mhz-vulcan-z-desktop-memory-gray?_pos=30&_fid=987a5bc06&_ss=c | 3,000 | Dual‑channel DDR4; boosts iGPU bandwidth. |
 | **Storage 1 (NVMe)** | Kingston NV3 500 GB M.2 NVMe | PC Express – https://pcx.com.ph/products/kingston-500gb-nv3-m-2-pcie-nvme-solid-state-drive | 2,200 | NVMe M.2 2280 in motherboard slot. |
 | **Storage 2 (optional)** | — | — | 0 | Add SATA SSD/HDD later if needed. |
 | **Graphics** | Integrated Radeon (5600G) | — | 0 | Meets rubric (integrated). |
@@ -58,13 +60,9 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **Case** | Antec VX10M (mATX mini‑tower) | PC Express – https://pcx.com.ph/products/antec-vx10m-tempered-glass-matx-mini-tower-case | 950 | Fits mATX board & ATX PSU; includes fan. |
 | **Case Fans (optional)** | 120 mm PWM | — | 0 | Add 1–2 if airflow needed. |
 |  |  |  |  |  |
-| **Total** |  |  | **₱19,065** | ✅ within ₱20,000 ±5% |
+| **Total** |  |  | **₱18,465** | ✅ within ₱20,000 ±5% |
 
-**Alternates (if OOS):**
-- CPU alt: **Ryzen 5 5600GT** (DynaQuest) – https://dynaquestpc.com/products/amd-ryzen-5-5600gt-3-60-4-60ghz-6-core-processor-boxed  
-- Board alts: **MSI A520M‑A PRO** – https://dynaquestpc.com/products/msi-a520m-a-pro-matx-am4-motherboard-m-2-nvme-slot-hdmidvi-d-port  
-  **GIGABYTE A520M‑K V2** – https://dynaquestpc.com/products/gigabyte-a520m-k-v2-am4-motherboard  
-- Case alt: **Tecware Nexus Air M2** (with fans) – https://dynaquestpc.com/products/tecware-nexus-air-m2-black-mesh-tg-matx-3x120mm
+
 
 ---
 
