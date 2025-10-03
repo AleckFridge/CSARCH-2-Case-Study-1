@@ -36,14 +36,14 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **Storage 2** | — | Optional (skip to stay under budget). |
 | **Graphics** | **Integrated Radeon** (5600G iGPU) | Satisfies “Integrated or dedicated” requirement. |
 | **PSU** | **Gigabyte P450B 450W** 80+ Bronze | True‑rated; future headroom for entry dGPU. |
-| **Case** | **Antec VX10M** (mATX mini‑tower) | mATX + ATX PSU support; budget airflow. |
-| **Case fans** | Optional 120 mm PWM | Add if temps/noise demand it. |
+| **Case** | **DarkFlash DB330M MicroATX Mini Tower Case** (mATX mini‑tower) | mATX + ATX PSU support; budget airflow. |
+| **Case fans** | **Case Included** | Add for temps/noise. |
 
 ---
 
 ## 3) Local Manila Build (new parts only; links & prices)
 
-> Record **date checked** for each line and keep screenshots in `/pricing/`.
+> Record **date checked (October 3, 2025)** for each line and keep screenshots in `/pricing/`.
 
 [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/1NElgdf8un2gQuxJTkAW_fvciuKMDOF-cPFAEcsoqLjU/edit?usp=sharing)
 
@@ -57,10 +57,10 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **Storage 2 (optional)** | — | — | 0 | Add SATA SSD/HDD later if needed. |
 | **Graphics** | Integrated Radeon (5600G) | — | 0 | Meets rubric (integrated). |
 | **Power Supply** | Gigabyte P450B 450W 80+ Bronze | DynaQuest – https://dynaquestpc.com/products/gigabyte-p450b-bronze-450w-80-power-supply-gp-p450b | 2,165 | 24‑pin ATX + 8‑pin EPS present. |
-| **Case** | Antec VX10M (mATX mini‑tower) | PC Express – https://pcx.com.ph/products/antec-vx10m-tempered-glass-matx-mini-tower-case | 950 | Fits mATX board & ATX PSU; includes fan. |
-| **Case Fans (optional)** | 120 mm PWM | — | 0 | Add 1–2 if airflow needed. |
+| **Case** | DarkFlash DB330M MicroATX Mini Tower Case | Dyna Quest – https://dynaquestpc.com/products/darkflash-db330m-matx-pc-case | 1590 | Fits mATX board & ATX PSU; includes fan. |
+| **Case Fans Included** | 120 mm PWM | — | 0 | Add 1–2 if airflow needed. |
 |  |  |  |  |  |
-| **Total** |  |  | **₱18,515** | ✅ within ₱20,000 ±5% |
+| **Total** |  |  | **₱19,115** | ✅ within ₱20,000 ±5% |
 
 
 
@@ -80,7 +80,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 ## 5) Budget Analysis
 
 - **Budget limit:** ₱20,000 (±5% allowed up to ₱21,000)  
-- **Final total (current cart):** **₱19,065**  
+- **Final total (current cart):** **₱19,115**  
 - **Trade‑offs:** No dedicated GPU (iGPU only), stock cooler, single 500 GB NVMe. PSU chosen with headroom for a future dGPU.
 
 ---
