@@ -60,7 +60,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **Case** | Antec VX10M (mATX mini‑tower) | PC Express – https://pcx.com.ph/products/antec-vx10m-tempered-glass-matx-mini-tower-case | 950 | Fits mATX board & ATX PSU; includes fan. |
 | **Case Fans (optional)** | 120 mm PWM | — | 0 | Add 1–2 if airflow needed. |
 |  |  |  |  |  |
-| **Total** |  |  | **₱18,465** | ✅ within ₱20,000 ±5% |
+| **Total** |  |  | **₱18,515** | ✅ within ₱20,000 ±5% |
 
 
 
