@@ -1,7 +1,7 @@
 # Custom Desktop PC Build – Group 6 (AMD Budget 720p)
 
 **Course:** CSARCH2  
-**Section:** _to fill_  
+**Section:** _S21_  
 **Group Members:**  
 - _Amores, Joshua_  
 - _Amores, Louise_  
