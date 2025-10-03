@@ -53,7 +53,7 @@ Design choice: an **AMD APU** (Ryzen 5 5600G) to meet the gaming target without 
 | **CPU Cooler** | AMD Wraith Stealth (in‑box) | — | 0 | AM4 mounting; no extra cost. |
 | **Motherboard** | GIGABYTE A520M‑K V2 (mATX) | PC Express – https://pcx.com.ph/products/gigabyte-a520m-k-v2-micro-atx-motherboard?_pos=2&_sid=d99ec411a&_ss=r | 3,050 | AM4 socket; NVMe M.2 slot; BIOS supports 5600G. |
 | **RAM** | TEAMGROUP 16GB (2x8GB) DDR4 3600MHz VULCAN Z Desktop Memory | PC Express – https://pcx.com.ph/collections/memory-modules/products/teamgroup-16gb-2x8gb-ddr4-3600mhz-vulcan-z-desktop-memory-gray?_pos=30&_fid=987a5bc06&_ss=c | 3,000 | Dual‑channel DDR4; boosts iGPU bandwidth. |
-| **Storage 1 (NVMe)** | Kingston NV3 500 GB M.2 NVMe | PC Express – https://pcx.com.ph/products/kingston-500gb-nv3-m-2-pcie-nvme-solid-state-drive | 2,200 | NVMe M.2 2280 in motherboard slot. |
+| **Storage 1 (NVMe)** | Kingston NV3 500 GB M.2 NVMe | PC Express – https://pcx.com.ph/products/kingston-500gb-nv3-m-2-pcie-nvme-solid-state-drive | 2,250 | NVMe M.2 2280 in motherboard slot. |
 | **Storage 2 (optional)** | — | — | 0 | Add SATA SSD/HDD later if needed. |
 | **Graphics** | Integrated Radeon (5600G) | — | 0 | Meets rubric (integrated). |
 | **Power Supply** | Gigabyte P450B 450W 80+ Bronze | DynaQuest – https://dynaquestpc.com/products/gigabyte-p450b-bronze-450w-80-power-supply-gp-p450b | 2,165 | 24‑pin ATX + 8‑pin EPS present. |
